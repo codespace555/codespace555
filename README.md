@@ -1,7 +1,8 @@
 ### Hi there 👋
 Welcome to my GitHub profile! As a web developer, I specialize in JavaScript, HTML, CSS, Tailwind CSS, Express.js, React, and MongoDB. In this README, you'll find information about my skills, projects, and how to get in touch with me.
 
-##Skills
+###Skills
+
  **JavaScript:** Proficient in JavaScript for front-end and back-end development. I have experience with ES6+ features, asynchronous programming, and working with frameworks like React.
  
 .**HTML & CSS:** Skilled in creating responsive and visually appealing web pages using HTML5 and CSS3. I strive to write clean and semantic code.
@@ -16,7 +17,8 @@ Welcome to my GitHub profile! As a web developer, I specialize in JavaScript, HT
 
 .**MongoDB:** Knowledgeable in working with MongoDB, a NoSQL database. I can design schemas, perform CRUD operations, and utilize features like indexing and aggregation.
 
-##Contact
+###Contact
+
 I'm always open to new opportunities and collaborations. You can reach me through the following channels:
 
 **Email:** namansanjaykumar@gmail.com
