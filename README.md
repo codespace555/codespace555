@@ -1,30 +1,34 @@
-### Hi there 👋
-Welcome to my GitHub profile! As a web developer, I specialize in JavaScript, HTML, CSS, Tailwind CSS, Express.js, React, and MongoDB. In this README, you'll find information about my skills, projects, and how to get in touch with me.
+<h1 align="center">Hi 👋, I'm Naman Kumar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## Skills
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codespace555&label=Profile%20views&color=0e75b6&style=flat" alt="codespace555" /> </p>
 
- **JavaScript:** Proficient in JavaScript for front-end and back-end development. I have experience with ES6+ features, asynchronous programming, and working with frameworks like React.
- 
-.**HTML & CSS:** Skilled in creating responsive and visually appealing web pages using HTML5 and CSS3. I strive to write clean and semantic code.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codespace555" alt="codespace555" /></a> </p>
 
-.**Tailwind CSS:** Familiar with Tailwind CSS, a utility-first CSS framework. I can efficiently build user interfaces by leveraging its class-based approach.
+<p align="left"> <a href="https://twitter.com/namanku79266241" target="blank"><img src="https://img.shields.io/twitter/follow/namanku79266241?logo=twitter&style=for-the-badge" alt="namanku79266241" /></a> </p>
 
-..**Express.js:** Experienced in building server-side applications using Express.js. I can create RESTful APIs, handle routing, and manage middleware effectively.
+- 🔭 I’m currently working on **News App By Raect**
 
-.**Node.js:** Experienced in server-side development using Node.js. I can build scalable and efficient server applications, handle file operations, and utilize npm packages.
+- 🌱 I’m currently learning **React js**
 
-.**React:** Proficient in developing dynamic and interactive web applications using React. I can efficiently manage state, use component lifecycle methods, and integrate with third-party libraries.
+- 👨‍💻 All of my projects are available at [naman.dev](naman.dev)
 
-.**MongoDB:** Knowledgeable in working with MongoDB, a NoSQL database. I can design schemas, perform CRUD operations, and utilize features like indexing and aggregation.
+- 💬 Ask me about **React js**
 
-## Contact
+- 📫 How to reach me **namansanjaykumar@gmail.com**
 
-I'm always open to new opportunities and collaborations. You can reach me through the following channels:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/namanku79266241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namanku79266241" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naman-kumar-codespace555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-kumar-codespace555" height="30" width="40" /></a>
+<a href="https://hashnode.com/codespace555.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="codespace555.hashnode.dev" height="30" width="40" /></a>
+</p>
 
-**Email:** namansanjaykumar@gmail.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-**LinkedIn:** https://www.linkedin.com/in/naman-kumar-codespace555/
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codespace555&show_icons=true&locale=en&layout=compact" alt="codespace555" /></p>
 
-Feel free to contact me if you have any questions or if you'd like to discuss a potential project.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codespace555&show_icons=true&locale=en" alt="codespace555" /></p>
 
-Thank you for visiting my GitHub profile, and I look forward to connecting with you!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codespace555&" alt="codespace555" /></p>
