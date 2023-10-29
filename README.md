@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [naman.dev](naman.dev)
+- 👨‍💻 All of my projects are available at [namankr_]([naman.dev](https://namankr.netlify.app/))
 
 - 💬 Ask me about **React js**
 
