@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/namanku79266241" target="blank"><img src="https://img.shields.io/twitter/follow/namanku79266241?logo=twitter&style=for-the-badge" alt="namanku79266241" /></a> </p>
 
-- 🔭 I’m currently working on **News App By Raect**
+- 🔭 I’m currently working on **LMS**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **BackEnd**
 
 - 👨‍💻 All of my projects are available at [namankr_](https://namankr.netlify.app/)])
 
